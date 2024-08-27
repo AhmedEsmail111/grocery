@@ -1,6 +1,5 @@
 # grocery
-
-3-	Grocery: a project consists of tow apps one for the user and one for the admin as follows:
+a project consists of tow apps one for the user and one for the admin as follows:
    Grocery App: User Flow
     •	Developed a user-friendly grocery app with Firebase backend.
     •	Implemented a robust authentication system, including login, registration, and password reset options.
